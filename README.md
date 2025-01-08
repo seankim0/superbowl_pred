@@ -1,4 +1,4 @@
-# Super Bowl Winner Prediction Model
+ㅕ# Super Bowl Winner Prediction Model
 
 ## Introduction
 
@@ -29,7 +29,7 @@ The core code of this project is contained in the 'SuperBowl\_Prediction\_2024\_
 2. Open the 'SuperBowl\_Prediction\_2024\_v6\_250106.ipynb' file.
 3. Install required libraries:
    ```bash
-   pip install -r r
+   pip install -r requirements.txt
    ```
 4. requirements.txtExecute the code cells in order to train the model and review the results.
 
