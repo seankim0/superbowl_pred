@@ -1,8 +1,8 @@
-ㅕ# Super Bowl Winner Prediction Model
+# Super Bowl Winner Prediction Model
 
 ## Introduction
 
-This project aims to develop a machine learning model to predict the winner of the Super Bowl. It analyzes various team and game-related data, leveraging multiple machine learning algorithms to make the final prediction.
+This project aims to develop a machine-learning model to predict the winner of the Super Bowl. It analyzes various team and game-related data, leveraging multiple machine learning algorithms to make the final prediction.
 
 ## Code Overview
 
